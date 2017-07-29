@@ -3,6 +3,8 @@ Type colour values into the input fields to have that colour displayed as the ba
 
 Hexidecimal and RGBA only for the moment (plus, transparency tiles background for alpha reference).
 
+[Click here to view a live demo](https://cfgw.github.io/colours "Colours by cfgw")
+
 #### index.html:
 ```HTML
 <!DOCTYPE html>
