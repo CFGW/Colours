@@ -3,7 +3,7 @@ Type colour values into the input fields to have that colour displayed as the ba
 
 Hexidecimal and RGBA only for the moment (plus, transparency tiles background for alpha reference).
 
-####index.html:
+#### index.html:
 ```HTML
 <!DOCTYPE html>
 <html>
@@ -36,7 +36,7 @@ Hexidecimal and RGBA only for the moment (plus, transparency tiles background fo
 </html>
 ```
 
-####styles.css:
+#### styles.css:
 ```CSS
 @keyframes ready {
   0% {
@@ -139,7 +139,7 @@ margin-top: 40vh;
 
 ```
 
-####scripts.js
+#### scripts.js
 ```javascript
 //listen for input, and return background-color if valid
 $(document).ready(function() {
